@@ -1,10 +1,10 @@
-### Neural Network Challenge 2- Attrition Prediction 
+# Neural Network Challenge 2- Attrition Prediction 
 
 You are tasked with creating a neural network that HR can use to predict whether employees are likely to leave the company. Additionally, HR believes that some employees may be better suited to other departments, so you are also asked to predict the department that best fits each employee. These two columns should be predicted using a branched neural network.
 
 **Employee attrition** refers to the gradual reduction of a workforce by employees leaving the organization for various reasons. Predicting attrition is crucial for organizations to retain valuable talent and maintain a stable workforce. Neural networks, a subset of machine learning, are particularly effective in this domain due to their ability to model complex patterns and relationships in data.
 
-# Summary
+## Summary
 
 In the provided space below, briefly answer the following questions.
 
